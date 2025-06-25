@@ -1,0 +1,34 @@
+{
+  "dzikir_pagi": [
+    {
+      "arab": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ",
+      "latin": "Ashbahna wa ashbahal mulku lillah walhamdulillah",
+      "terjemah": "Kami telah memasuki waktu pagi dan kerajaan hanya milik Allah, segala puji bagi Allah.",
+      "jumlah": 1,
+      "audio": "dzikir_pagi.mp3"
+    },
+    {
+      "arab": "اللّهُـمَّ بِكَ أَصْبَـحْنَا وَبِكَ أَمْسَـيْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ النُّشُورُ",
+      "latin": "Allahumma bika ashbahna wa bika amsayna wa bika nahya wa bika namutu wa ilaikan-nushur",
+      "terjemah": "Ya Allah, dengan rahmat-Mu kami memasuki pagi, dengan rahmat-Mu kami memasuki petang, dengan rahmat-Mu kami hidup, dan dengan rahmat-Mu kami mati, dan kepada-Mu kebangkitan (bagi semua makhluk).",
+      "jumlah": 1,
+      "audio": "dzikir_pagi.mp3"
+    }
+  ],
+  "dzikir_petang": [
+    {
+      "arab": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ",
+      "latin": "Amsayna wa amsal mulku lillah walhamdulillah",
+      "terjemah": "Kami telah memasuki waktu petang dan kerajaan hanya milik Allah, segala puji bagi Allah.",
+      "jumlah": 1,
+      "audio": "dzikir_petang.mp3"
+    },
+    {
+      "arab": "اللّهُـمَّ أَنْتَ رَبِّي لاَ إِلَهَ إِلاَّ أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ",
+      "latin": "Allahumma anta rabbi la ilaha illa anta khalaqtani wa ana 'abduka",
+      "terjemah": "Ya Allah Engkau Tuhanku, tidak ada Tuhan selain Engkau, Engkau telah menciptakanku dan aku adalah hamba-Mu.",
+      "jumlah": 3,
+      "audio": "dzikir_petang.mp3"
+    }
+  ]
+}
